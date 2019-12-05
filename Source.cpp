@@ -1,6 +1,6 @@
 #include <iostream>	// simple input output library
 #include <fstream> // to be able to open files.
-#include <vector> // If the don't know the size of an array beforehand, it is better to use vectors. Because their size is dynamic
+#include <vector> // If we don't know the size of an array beforehand, it is better to use vectors. Because their size is dynamic
 #include <string> // to be able to use strings
 #include <chrono> // to measure the elapsed time
 using namespace std;
